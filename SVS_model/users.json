@@ -1,0 +1,14 @@
+{
+  "users": {
+    "Valery": "S",
+    "Semen": "G",
+    "Vova": "L"
+  },
+  "objects": {
+    "Val_s.txt": "secret",
+    "Semen.txt": "special",
+    "Vova_L.txt": "top_secret",
+    "1.txt": "special",
+    "Valery.txt": "secret"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "users": {
+    "root": 3,
+    "Valery": 2
+  },
+  "objects": {
+    "Valery_3.txt": 3,
+    "Valery_1.txt": 1,
+    "1.txt": 1,
+    "3.txt": 3
+  }
+}

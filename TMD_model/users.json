@@ -1,0 +1,39 @@
+{
+  "Valery": {
+    "user_type": "user",
+    "objects": {}
+  },
+  "vova": {
+    "user_type": "guest",
+    "objects": {}
+  },
+  "Sanya": {
+    "user_type": "guest",
+    "objects": {}
+  },
+  "root": {
+    "user_type": "root",
+    "objects": {
+      "root_1": [
+        1,
+        1,
+        1
+      ],
+      "root_2.txt": [
+        1,
+        1,
+        1
+      ],
+      "root_3.txt": [
+        1,
+        1,
+        1
+      ],
+      "1234_root_cool.txt": [
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}
