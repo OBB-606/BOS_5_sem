@@ -13,7 +13,6 @@ import sys
 
 users_dict: dict = {}  # Словарь с информацией субъектов
 
-
 def help():
     print("command's : "
           "check_rights - посмотреть права пользователя на файл\n"
